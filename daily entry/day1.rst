@@ -1,13 +1,13 @@
-Day 1 (10/9/20):
+Day 1 (8/10/20):
 
 20 problems done. 
 
-Difficulty level: 2 (A2OJ)
+Difficulty level: 1100-1300 (Codeforces)
 
-Tags:
+Tags: Implementation, constructive algo, 
 
-Day 2 (11/9/20):
+Ratings: CF 782, Codechef 1423
 
-Covid tracker app
+Day 2 (9/10/20):
 
- problems done
+20 problems done
